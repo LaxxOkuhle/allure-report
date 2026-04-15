@@ -1,0 +1,9 @@
+cd allure-report
+
+git init
+git remote add origin https://github.com/LaxxOkuhle/allure-report.git
+
+git add .
+git commit -m "Add Allure report"
+git branch -M main
+git push -u origin main
